@@ -1,6 +1,7 @@
 
-console.log (mutiplicaçâo(5,8)); 
-function  mutiplicaçâo(num1,num2) {
-return num1+num2;
+
+function  areQuadraado(num1,num2) {
+return num1*num2;
 }
+console.log (soma(4,4) );
 
