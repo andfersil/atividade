@@ -1,7 +1,7 @@
 
 
-function  areQuadraado(num1,num2) {
-return num1*num2;
+function  areQuadraado(lado) {
+return lado**2
 }
-console.log (soma(4,4) );
+console.log (areQuadraado(4,4) );
 
