@@ -10,7 +10,7 @@ function  areQuadraado(lado) {
         return num1+num2+num3/num3;
     
     }
-    console.log(media(1,2,3,3));
+    console.log(media(1,2,3));
         
 
 
