@@ -13,8 +13,8 @@ function  areQuadraado(lado) {
     console.log(media(1,2,3));
 
 
-    let nome= parseInt(prompt(1+2));
-    document.write(1+2);
+    let nome= parseInt(prompt(1+9));
+    document.write(1+9);
         
 
 
