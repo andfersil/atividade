@@ -20,8 +20,8 @@
 
 
 let estados = ['PR', 'SC', 'RS', 'SP', 'MA','BA','AC','SE','AL','PE', 'MT', 'MS', 'GO', 'MG','ES','RJ','PA','RR','RO','AM','AP','CE','DF','TO','PI','PB','RN'];
-
-alert(estados.length)
+estados = estados.sort
+alert(estados)
 
 
 
