@@ -23,11 +23,15 @@
 estados = estados.sort();
 // console.log(estados);
 
-let i = 0;
-while(i < estados.length){
-    console.log(estados[i]);
-    i++;
-}
+// let i = 0;
+// while(i < estados.length){
+//     console.log(estados[i]);
+//     i++;
+// }
 
+for (let index = 0; index < estados.length; index++) {
+    console.log(estados[index]);
+    
+}
 
 
