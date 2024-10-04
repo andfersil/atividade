@@ -21,7 +21,7 @@
 
 let estados = ['PR', 'SC', 'RS', 'SP', 'MA','BA','AC','SE','AL','PE', 'MT', 'MS', 'GO', 'MG','ES','RJ','PA','RR','RO','AM','AP','CE','DF','TO','PI','PB','RN'];
 estados = estados.sort();
-console.log(estados);
+console.log(estados[0]);
 
 
 
