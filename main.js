@@ -35,11 +35,11 @@ estados = estados.sort();
 // }
 
 
-let idade = 10
+let idade = prompt("Qual é sua idade?")
 if(idade > 17){
-    console.log("Maior de idade");
+    alert("Maior de idade");
 } else {
-    console.log("Menor de idade");
+   alert("Menor de idade");
 }
 
 
