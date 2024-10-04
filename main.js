@@ -19,7 +19,7 @@
 // EXEMPLO DE LISTA let status = ['Wesley', 'André', 'Gabriel', 'Matheus', 'Michel', 'João'];
 
 
-let estados = ['PR', 'SC', 'RS', 'SP', 'MA','BA','AC','SE','AL','PE', 'MT', 'MS', 'GO', 'MG','ES','RJ','PA','RR','RO','AM','AP','CE','DF','TO','PI','PB'];
+let estados = ['PR', 'SC', 'RS', 'SP', 'MA','BA','AC','SE','AL','PE', 'MT', 'MS', 'GO', 'MG','ES','RJ','PA','RR','RO','AM','AP','CE','DF','TO','PI','PB','RN'];
 
 alert(estados.length)
 
