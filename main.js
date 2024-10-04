@@ -24,7 +24,7 @@ estados = estados.sort();
 // console.log(estados);
 
 let i = 0;
-while(i < 10){
+while(i < estados.length){
     console.log(estados[i]);
     i++;
 }
