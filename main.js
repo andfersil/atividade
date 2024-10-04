@@ -29,9 +29,17 @@ estados = estados.sort();
 //     i++;
 // }
 
-for (let index = 0; index < estados.length; index++) {
-    console.log(estados[index]);
+// for (let index = 0; index < estados.length; index++) {
+//     console.log(estados[index]);
     
+// }
+
+
+let idade = 10
+if(idade > 17){
+    console.log("Maior de idade");
+} else {
+    console.log("Menor de idade");
 }
 
 
