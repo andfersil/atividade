@@ -20,9 +20,8 @@
 
 
 let estados = ['PR', 'SC', 'RS', 'SP', 'MA','BA','AC','SE','AL','PE', 'MT', 'MS', 'GO', 'MG','ES','RJ','PA','RR','RO','AM','AP','CE','DF','TO','PI','PB','RN'];
-estados = estados.sort()
-alert(estados)
-
+estados = estados.sort();
+console.log(estados);
 
 
 
